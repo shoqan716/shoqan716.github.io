@@ -1,7 +1,8 @@
 body{
     background-image: url(img/first.jpg);
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
     background-position: center;
     background-position: top;
+    width: 100%;
 }
